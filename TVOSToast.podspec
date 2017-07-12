@@ -80,7 +80,7 @@ Toast component for tvOS with built-in siri remote hint support.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/svtek/TVOSToast.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/DoubleNodeOpen/TVOSToast.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
